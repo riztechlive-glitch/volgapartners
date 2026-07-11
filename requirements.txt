@@ -1,0 +1,8 @@
+pydantic>=2.0
+scikit-learn>=1.3
+# Optional: real speech-to-text (uncomment to use Whisper backend)
+# openai-whisper>=20231117
+# Optional: HTTP API server (uncomment for api.py)
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
+# python-multipart>=0.0.6
